@@ -1,5 +1,7 @@
 Vision-Controlled Robot Arm in RoboDK 🤖📸
+
 Welcome to the Vision-Controlled Robot Arm project! This innovative system allows you to control a simulated robot arm in RoboDK using hand gestures captured via a webcam. By leveraging computer vision and robotics APIs, this project creates an intuitive, real-time interface for commanding a robot to move between predefined targets based on finger gestures. 🚀
+
 🎯 Project Overview
 This project integrates computer vision with robotics simulation to control a robot arm in RoboDK. Using a webcam, the system detects hand gestures (specific finger combinations) and translates them into commands to move the robot to designated targets (Target 1, Target 2, or Target 3). The project showcases the power of combining OpenCV, MediaPipe, and the RoboDK API to create a futuristic, gesture-based control system.
 Key Features
